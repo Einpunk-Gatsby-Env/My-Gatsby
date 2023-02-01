@@ -1,54 +1,66 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# Einpunk Protocol Company
 
-## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+#### About US
+The World's Fastest Growing Token Protocol
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+Einpunk Token is a unique deflationary token with a 1% slippage, total supply of 1 million, 100% ownership renounced and Liquidity pool locked forever.
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+31% of Einpunk Tokens have been burnt so far. The goal of the project is to establish a NFT club (Einpunk Club), where users can hold, buy and sell unique NFTs on a p2p platform.
 
-2.  **Start developing.**
+Einpunk Token Contract Address
+0x89a081999249407C1153e135A2Af7d323419A66A
 
-    Navigate into your new site’s directory and start it up.
+### Logo
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
 
-3.  **Open the code and start customizing!**
+![](https://einpunk.finance/static/media/Einpunk%20Logo%20white.424c6d71b6a59a9afd5b.png)
 
-    Your site is now running at http://localhost:8000!
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+### Brand color
+#000
 
-4.  **Learn more**
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+### Buy Einpunk 
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+### FAQ
+##### Is your dapp open source?
+Yes
 
-## 🚀 Quick start (Gatsby Cloud)
+##### If open source, what is the repo for the dapp?
+https://github.com/Einpunk-Protocol/Einpunk-Token-landing-page.git
 
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
+##### Can a user access the dapp without creating an account?
+yes
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+##### Are dapp funds non-custodial?
+yes
+
+
+Problem
+Parents and grandparents are looking for high-quality, durable toys that will entertain kids and foster creativity.
+### Our solution
+Einpunk Token is a unique deflationary token with a 1% slippage, total supply of 1 million, 100% ownership renounced and Liquidity pool locked forever.
+
+###Target market
+The target audience is adults, specifically investors and beginers who wish to learn technology and cyber security.
+###The competition
+Einpunk Protocol market with companies of all sizes. Large companies include Projects on Polygon, Binance Smart Contract Toys and Metal Happy Toys, which sell internationally. Smaller companies sell locally in P2P escrow online.
+### Revenue marketcap
+Einpunk Protocol will trade directly to customers online.
+### Marketing activities
+Einpunk Protocol will communicate with customers with an email newsletter, targeted Google and Facebook ads, social media.
+### Expenses
+Pool Liquidity, Farm Tokens For Stakes and DAO 
+### Inventory space for products
+
+
+### Team and key roles
+Currently, the only team member is the owner, Lanre Yusuph which is anonymously called Einstein Punk, Einstein Punk the braintree of Einpunk Protocol is a Senior Blockchain Full Stack Developer, Which had been in the Space for years and had loads of experience and he's frontend developer Dev Akingbola Olagboye Seyi whom had been in the space for years and has years experience and proficiency. As profits increase, Einpunk Protocol will look to add an employee to assist with social media and online marketing.
+### Milestones
+As business grows, Twitter, Telegram and Discord Community will advertise in target markets—especially in advance of the holiday season.
+
